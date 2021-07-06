@@ -1,0 +1,2 @@
+mauve : 322a53;
+blue : 00e0d0
