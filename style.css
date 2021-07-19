@@ -58,7 +58,7 @@
 }
 
 .About .carousel-item {
-    background-image: url("../tajem/images/background_1.png");
+    background-image: url("images/background_1.png");
     background-repeat: no-repeat;
     min-height: 500px;
 }
@@ -181,7 +181,7 @@
 }
 
 .video {
-    background-image: url("../tajem/images/background_2.png");
+    background-image: url("images/background_2.png");
     min-height: 400px;
 }
 
@@ -250,7 +250,7 @@
 /* start team section */
 
 .team {
-    background-image: url("../tajem/images/background_1.png");
+    background-image: url("images/background_1.png");
     min-height: 600px;
 }
 
@@ -413,7 +413,7 @@ h4 {
 /*start feedback section */
 
 .feed .feed_image {
-    background-image: url("../tajem/images/background_1.png");
+    background-image: url("images/background_1.png");
     background-repeat: no-repeat;
     min-height: 600px;
 }
