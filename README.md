@@ -1,4 +1,8 @@
 # Tajem Startup
+### Overview :
+![—Pngtree—desktop computer graphics_4085227](https://user-images.githubusercontent.com/86334640/126886733-19d9bfcf-10a6-45ee-a8f3-14ff786fb28c.png)
+![—Pngtree—mobile phone frame mockup png_5843187](https://user-images.githubusercontent.com/86334640/126886735-e4c9da8a-15ff-4975-a97d-58f15848ddb7.png)
+
 
 ### Technologies Used : 
 * [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()HTML5
