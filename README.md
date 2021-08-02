@@ -1,7 +1,6 @@
 # Tajem Startup
 ### Overview :
-![—Pngtree—desktop computer graphics_4085227](https://user-images.githubusercontent.com/86334640/126886733-19d9bfcf-10a6-45ee-a8f3-14ff786fb28c.png)
-![—Pngtree—mobile phone frame mockup png_5843187](https://user-images.githubusercontent.com/86334640/126886735-e4c9da8a-15ff-4975-a97d-58f15848ddb7.png)
+![mockup2](https://user-images.githubusercontent.com/86334640/127806399-863adaa4-0c45-44e7-b836-2393c4525509.png)
 
 
 ### Technologies Used : 
