@@ -1,7 +1,7 @@
 # Tajem Startup
 ### Overview :
 ![mockup2](https://user-images.githubusercontent.com/86334640/127806399-863adaa4-0c45-44e7-b836-2393c4525509.png)
-### You can check it in the live Demo : [Tajem Startup](https://houssem-ousji.github.io/Tajem-Startup-Landing-page/)
+
 
 
 ### Technologies Used : 
